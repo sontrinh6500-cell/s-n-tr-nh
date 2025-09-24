@@ -1,0 +1,5 @@
+{
+  "name": "Trình chỉnh sửa & Phục hồi ảnh AI",
+  "description": "Một ứng dụng web để chỉnh sửa ảnh thẻ và phục hồi ảnh cũ bằng Gemini AI. Tải ảnh lên, nhập lời nhắc và để AI thực hiện điều kỳ diệu.",
+  "requestFramePermissions": []
+}
